@@ -1,0 +1,68 @@
+{
+  "name": "Gokulanath Muthukumar",
+  "title": "Computer Science Student",
+  "contact": {
+    "email": "gokulajay@email.com",
+    "phone": "+917639900727",
+    "linkedin": "www.linkedin.com/in/Gokulanath Muthukumar",
+    "github": "www.github.com/gokulanath5MK"
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Engineering",
+      "major": "Mechanical Engineering",
+      "college": "Anna University",
+      "location": "Ramanathapuram",
+      "dates": "2020 - 2023",
+      "cgpa": "8.2"
+    },
+    {
+        "degree": "Diploma in Mechanical Engineering",
+        "diploma": "vivekanada polytechnic college",
+        "location": "Kummankudi",
+        "dates": "2018 - 2020"
+    },
+    {
+      "school": "Maharishi vidya manddir matric Hr.Sec.School",
+      "location": "Karaikudi, State",
+      "dates": "2014 - 2018"
+    }
+  ],
+  "skills": [
+    "HTML/CSS",
+    "JavaScript",
+    "Git",
+    "Nodejs",
+    "Reactjs",
+    "Problem Solving",
+    "Teamwork",
+    "Communication"
+  ],
+  "projects": [
+    {
+      "title": "Solar mini belt grinder",
+      "dates": "2022"
+    },
+    {
+      "title": "Solar street light",
+      "dates": "2023"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Tamil",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    "Software Development",
+    "Machine Learning",
+    "Open Source Projects",
+    "Web Development",
+    "Playing Guitar"
+  ]
+}
